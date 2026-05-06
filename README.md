@@ -2,8 +2,6 @@
 
 > A curated collection of system prompts, JSX artifacts, skill files, and code templates for AI engineers — built from real production experience.
 
-by **Frost** · AI Engineer · [LinkedIn](#) · [Twitter/X](#)
-
 ---
 
 ## What's in here?
